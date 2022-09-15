@@ -22,3 +22,5 @@ require (
 	golang.org/x/crypto v0.0.0-20220516162934-403b01795ae8 // indirect
 	golang.org/x/net v0.0.0-20220630215102-69896b714898
 )
+
+replace github.com/pion/interceptor v0.1.11 => github.com/kawaway/interceptor v0.0.2
