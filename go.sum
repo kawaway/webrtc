@@ -23,8 +23,8 @@ github.com/google/go-cmp v0.5.5/go.mod h1:v8dTdLbMG2kIc/vJvl+f65V22dbkXbowE6jgT/
 github.com/google/uuid v1.3.0 h1:t6JiXgmwXMjEs8VusXIJk2BXHsn+wx8BZdTaoZ5fu7I=
 github.com/google/uuid v1.3.0/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
 github.com/hpcloud/tail v1.0.0/go.mod h1:ab1qPbhIpdTxEkNHXyeSf5vhxWSCs/tWer42PpOxQnU=
-github.com/kawaway/interceptor v0.0.2 h1:0fvuk3Y+RUFovJ5uwVA914KPYaUlcruGLjwYUoVhDYc=
-github.com/kawaway/interceptor v0.0.2/go.mod h1:tbtKjZY14awXd7Bq0mmWvgtHB5MDaRN7HV3OZ/uy7s8=
+github.com/kawaway/interceptor v0.0.3-0.20220916093414-9309326299fb h1:AS9gI0KDmbrbuEfHi+Uugy4beJ9maGR6T+0mWMIrrT8=
+github.com/kawaway/interceptor v0.0.3-0.20220916093414-9309326299fb/go.mod h1:BUj32cOGaVnPf/XlMINP/7p9VIRvu9EqFxJah4oCZgw=
 github.com/kr/pretty v0.1.0 h1:L/CwN0zerZDmRFUapSPitk6f+Q3+0za1rQkzVuMiMFI=
 github.com/kr/pretty v0.1.0/go.mod h1:dAy3ld7l9f0ibDNOQOHHMYYIIbhfbHSm3C4ZsoJORNo=
 github.com/kr/pty v1.1.1/go.mod h1:pFQYn66WHrOpPYNljwOMqo10TkYh1fy3cYio2l3bCsQ=
