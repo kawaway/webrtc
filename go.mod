@@ -21,6 +21,4 @@ require (
 	golang.org/x/net v0.0.0-20220722155237-a158d28d115b
 )
 
-replace github.com/pion/interceptor => github.com/kawaway/interceptor v0.0.3-0.20220916093414-9309326299fb
-
-replace github.com/pion/webrtc/v3 v3.1.43 => ./
+replace github.com/pion/interceptor v0.1.11 => github.com/kawaway/interceptor v0.0.3-0.20220922080620-94df98e9bab6
